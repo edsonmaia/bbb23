@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background: #79eaff;
+    background: linear-gradient(to right, #79eaff, #fff, #79eaff);
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+h1 {
+    color: #e65100;
+}
+
+main {
+    width: 100%;
+    height: 100%;
+}
+
+.cards {
+    min-width: 300px;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.card {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+
+    position: relative;
+    color: #fff;
+    font-size: 2rem;
+    text-shadow: 0 0 5px #222;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.card span {
+    width: 100%;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    color: #fff;
+    font-size: 2rem;
+    text-shadow: 0 0 5px #222;
+}
+
+.fundoCamarote {
+    background-color: #ffca6380;
+}
+
+.fundoPipoca {
+    background-color: #fe2d8680;
+}
+
+.camarote {
+    background-color: #ffca63;
+    border: 5px solid #ffca63;
+}
+
+.pipoca {
+    background-color: #fe2d86;
+    border: 5px solid #fe2d86;
+}
+
+footer {
+    text-align: center;
+    color: #e65100;
+}
+
+.btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #222;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.25rem;
+    box-shadow: 0 5px 5px #222;
+}
+
+.btnTopo {
+    background-color: #e65100;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.tituloGrande {
+    background-image: linear-gradient(to bottom, rgba(255,202,99,1), rgba(246,159,5,1), rgba(230,81,0,1));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
