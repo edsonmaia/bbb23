@@ -23,3 +23,42 @@ E, ir acrescentando novas funcionalidades ao longo de cada aula.
 &uparrow;
 ~~~
 
+<<<<<<< Updated upstream
+=======
+## Aula 02 - JavaScript JS
+
+Na aula 02 fizemos cada card dos participantes utilizando o JavaScript.
+
+Criamos o arquivo script.js dentro da pasta js do nosso projeto.
+
+Pegamos os dados que estão no arquivo 'participantes-bbb23.json' utilizando a api fetch.
+
+Pegamos a resposta (promise) do fetch e usando o then (pegar da response) em um formato json legível o que vem no body da requisição.
+
+Neste ponto teremos um array de objetos com o formato json.
+
+Depois, ainda com o then pegar somente os dados (data) da resposta que foram 'convertidos' e fazer as manipulações desejadas.
+
+No caso, usamos um map para percorrer o array e a cada iteração:
+1. Criamos um card (div)
+2. Atribuímos as classes 'card' e 'camarote' ou 'pipoca'
+3. Colocamos dentro do card a img e span
+4. Mudamos a class do span para 'fundoCamarote' ou 'fundoPipoca' de acordo com o grupo do participante
+5. Por fim, usamos o appendChild para colocar cada card como filho da section cards
+
+Ao final da aula 02 automatizamos o processo de criação dos cards, usando o JavaScript.
+
+## Aula 03 - JavaScript JS + CSS
+
+Na aula 03 adicionamos a pasta icones dentro de images, com arquivos svg.
+
+Fizemos pequenos ajustes no CSS.
+
+Fiz ajustes no arquivo .json colocando a propriedade "situacao". Nela temos as seguintes: participando, eliminado, lider, paredao, monstro, anjo, imunizado.
+
+Também criamos uma div com duas imgs dentro dos cards para colocarmos os ícones de situação dos participantes.
+
+Com base na situacao que está no arquivo .json informamos qual imagem deve aparecer como ícone para cada participante.
+
+Fizemos também a formatação da classe eliminado para formatar a imagem para escala de cinza.
+>>>>>>> Stashed changes
