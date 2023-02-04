@@ -11,8 +11,10 @@
   "grupo": "Camarote",
   "sexo_biologico": "mulher",
   "cor_etnia": "negra",
-  "imagem": "aline-wirley"
+  "imagem": "aline-wirley",
+  "situacao": ["participando"]
  },
+ 
  {
   "id": 2,
   "nome": "Amanda",
@@ -25,7 +27,8 @@
   "grupo": "Pipoca",
   "sexo_biologico": "mulher",
   "cor_etnia": "branca",
-  "imagem": "amanda"
+  "imagem": "amanda",
+  "situacao": ["participando"]
  },
  {
   "id": 3,
@@ -39,7 +42,8 @@
   "grupo": "Camarote",
   "sexo_biologico": "homem",
   "cor_etnia": "branca",
-  "imagem": "antonio-cara-de-sapato-jr"
+  "imagem": "antonio-cara-de-sapato-jr",
+  "situacao": ["lider"]
  },
  {
   "id": 4,
@@ -53,7 +57,8 @@
   "grupo": "Camarote",
   "sexo_biologico": "mulher",
   "cor_etnia": "branca",
-  "imagem": "bruna-griphao"
+  "imagem": "bruna-griphao",
+  "situacao": ["participando"]
  },
  {
   "id": 5,
@@ -67,7 +72,8 @@
   "grupo": "Pipoca",
   "sexo_biologico": "homem",
   "cor_etnia": "negra",
-  "imagem": "bruno"
+  "imagem": "bruno",
+  "situacao": ["participando"]
  },
  {
   "id": 6,
@@ -81,7 +87,8 @@
   "grupo": "Pipoca",
   "sexo_biologico": "homem",
   "cor_etnia": "negra",
-  "imagem": "cezar"
+  "imagem": "cezar",
+  "situacao": ["paredao"]
  },
  {
   "id": 7,
@@ -95,7 +102,8 @@
   "grupo": "Pipoca",
   "sexo_biologico": "homem",
   "cor_etnia": "branca",
-  "imagem": "cristian"
+  "imagem": "cristian",
+  "situacao": ["participando"]
  },
  {
   "id": 8,
@@ -109,7 +117,8 @@
   "grupo": "Camarote",
   "sexo_biologico": "mulher",
   "cor_etnia": "negra",
-  "imagem": "domitila-barros"
+  "imagem": "domitila-barros",
+  "situacao": ["monstro", "paredao"]
  },
  {
   "id": 9,
@@ -123,7 +132,8 @@
   "grupo": "Camarote",
   "sexo_biologico": "homem",
   "cor_etnia": "branca",
-  "imagem": "fred"
+  "imagem": "fred",
+  "situacao": ["participando"]
  },
  {
   "id": 10,
@@ -137,7 +147,8 @@
   "grupo": "Camarote",
   "sexo_biologico": "homem",
   "cor_etnia": "negra",
-  "imagem": "fred-nicacio"
+  "imagem": "fred-nicacio",
+  "situacao": ["participando"]
  },
  {
   "id": 11,
@@ -151,7 +162,8 @@
   "grupo": "Pipoca",
   "sexo_biologico": "homem",
   "cor_etnia": "branca",
-  "imagem": "gabriel"
+  "imagem": "gabriel",
+  "situacao": ["eliminado"]
  },
  {
   "id": 12,
@@ -165,7 +177,8 @@
   "grupo": "Camarote",
   "sexo_biologico": "homem",
   "cor_etnia": "parda",
-  "imagem": "gabriel-santana"
+  "imagem": "gabriel-santana",
+  "situacao": ["monstro"]
  },
  {
   "id": 13,
@@ -179,7 +192,8 @@
   "grupo": "Pipoca",
   "sexo_biologico": "homem",
   "cor_etnia": "branca",
-  "imagem": "gustavo"
+  "imagem": "gustavo",
+  "situacao": ["participando"]
  },
  {
   "id": 14,
@@ -193,7 +207,8 @@
   "grupo": "Camarote",
   "sexo_biologico": "mulher",
   "cor_etnia": "parda",
-  "imagem": "key-alves"
+  "imagem": "key-alves",
+  "situacao": ["participando"]
  },
  {
   "id": 15,
@@ -207,7 +222,8 @@
   "grupo": "Pipoca",
   "sexo_biologico": "mulher",
   "cor_etnia": "branca",
-  "imagem": "larissa"
+  "imagem": "larissa",
+  "situacao": ["participando"]
  },
  {
   "id": 16,
@@ -221,7 +237,8 @@
   "grupo": "Pipoca",
   "sexo_biologico": "mulher",
   "cor_etnia": "branca",
-  "imagem": "marilia"
+  "imagem": "marilia",
+  "situacao": ["eliminado"]
  },
  {
   "id": 17,
@@ -235,7 +252,8 @@
   "grupo": "Camarote",
   "sexo_biologico": "mulher",
   "cor_etnia": "negra",
-  "imagem": "marvvila"
+  "imagem": "marvvila",
+  "situacao": ["participando"]
  },
  {
   "id": 18,
@@ -249,7 +267,8 @@
   "grupo": "Camarote",
   "sexo_biologico": "homem",
   "cor_etnia": "branca",
-  "imagem": "mc-guime"
+  "imagem": "mc-guime",
+  "situacao": ["participando"]
  },
  {
   "id": 19,
@@ -263,7 +282,8 @@
   "grupo": "Pipoca",
   "sexo_biologico": "mulher",
   "cor_etnia": "parda",
-  "imagem": "paula"
+  "imagem": "paula",
+  "situacao": ["participando"]
  },
  {
   "id": 20,
@@ -277,7 +297,8 @@
   "grupo": "Pipoca",
   "sexo_biologico": "homem",
   "cor_etnia": "parda",
-  "imagem": "ricardo"
+  "imagem": "ricardo",
+  "situacao": ["anjo"]
  },
  {
   "id": 21,
@@ -291,7 +312,8 @@
   "grupo": "Pipoca",
   "sexo_biologico": "mulher",
   "cor_etnia": "negra",
-  "imagem": "sarah-aline"
+  "imagem": "sarah-aline",
+  "situacao": ["participando"]
  },
  {
   "id": 22,
@@ -305,6 +327,7 @@
   "grupo": "Pipoca",
   "sexo_biologico": "mulher",
   "cor_etnia": "negra",
-  "imagem": "tina"
+  "imagem": "tina",
+  "situacao": ["imunizado"]
  }
 ]
