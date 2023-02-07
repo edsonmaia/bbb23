@@ -23,8 +23,6 @@ E, ir acrescentando novas funcionalidades ao longo de cada aula.
 &uparrow;
 ~~~
 
-<<<<<<< Updated upstream
-=======
 ## Aula 02 - JavaScript JS
 
 Na aula 02 fizemos cada card dos participantes utilizando o JavaScript.
