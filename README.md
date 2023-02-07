@@ -5,7 +5,7 @@ Salve Devs,
 
 Este é um projeto web completo de html, css e js sobre o tema BBB23.
 
-![BBB23](https://i.ibb.co/BPyMWhB/bbb23a.png)
+![BBB23](https://ibb.co/TT43jQt)
 
 Vamos fazer passo a passo a construção da aplicação.
 E, ir acrescentando novas funcionalidades ao longo de cada aula.
