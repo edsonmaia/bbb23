@@ -36,7 +36,6 @@ main {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-
 }
 
 .card {
@@ -53,9 +52,10 @@ main {
     text-shadow: 0 0 5px #222;
 }
 
-.card img {
+.foto { /* era .card img */
     width: 100%;
     border-radius: 20px;
+    -webkit-user-drag: none;
 }
 
 .card span {
@@ -80,12 +80,12 @@ main {
     background-color: #fe2d8680;
 }
 
-.camarote {
+.camarote, .btnCamarote {
     background-color: #ffca63;
     border: 5px solid #ffca63;
 }
 
-.pipoca {
+.pipoca, .btnPipoca {
     background-color: #fe2d86;
     border: 5px solid #fe2d86;
 }
@@ -122,4 +122,54 @@ footer {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+/* aula 03 */
+.situacao {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+ 
+.icone {
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.eliminado {
+    filter: grayscale(100%);
+}
+
+.lider {
+    background-color: #ffab00;
+}
+
+.paredao {
+    background-color: #ff5722;
+}
+
+.anjo, .imunizado {
+    background-color: #03a9f4;
+}
+
+.monstro {
+    background-color: #4caf50;
+}
+
+/* aula 05 */
+.btnCamarote, .btnPipoca, .tituloGrande {
+    cursor: pointer;
+}
+
+.ocultar {
+    display: none;
+}
+
+.mostrar {
+    display: flex;
 }
